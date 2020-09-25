@@ -75,7 +75,5 @@ public class Examenes {
         this.formatoPDF = formatoPDF;
     }
     
-    
-    
-    
+
 }
